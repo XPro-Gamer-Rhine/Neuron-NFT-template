@@ -14,7 +14,7 @@
 <p>This is neuron theme. JUst the basic HTML,CSS & JS version. It's not react ready. Will have react ready soon.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##### ⚠️This repository is just to support those who can't afford to buy the original one from theme-forest. So please don't this if you can afford to buy.
+##### ⚠️This repository is just to support those who can't afford to buy the original one from theme-forest. So please don't use this if you can afford to buy.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
